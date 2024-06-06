@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/482.dce778ac.chunk.css","mappings":"AACA,UACI,iCACJ,CAEA,YACI,oBACJ,CAEA,WACI,0BACJ","sources":["components/GlobalCSS.css"],"sourcesContent":["\n.bg-color{\n    background-color: orange !important;\n}\n\n.text-color{\n    color: blue !important;\n}\n\n.text-font{\n    font-size: 1.6rem !important;\n}"],"names":[],"sourceRoot":""}
